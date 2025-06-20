@@ -18,3 +18,9 @@
 
 * SAW
  - {{% lancelot title="One Year Certificate Program" %}}sequential-artists-workshop-saw-one-year-certificate-program{{% /lancelot %}}
+
+Favicon:
+
+#+begin_attribution
+[[https://www.publicdomainpictures.net/pictures/20000/velka/malvorlage.jpg][malvorlage]] by Sabine Sauermaul. www.publicdomainpictures.net. The image is dedicated to the public domain under CC0.
+#+end_attribution
