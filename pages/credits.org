@@ -1,0 +1,5 @@
+* Favicon
+
+#+begin_attribution
+[[https://www.publicdomainpictures.net/pictures/20000/velka/malvorlage.jpg][malvorlage]] by Sabine Sauermaul. License: The image is dedicated to the public domain under CC0. (via www.publicdomainpictures.net)
+#+end_attribution

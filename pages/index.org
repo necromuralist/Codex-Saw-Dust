@@ -16,11 +16,5 @@
 [[https://www.flickr.com/photos/sfupamr/14347378224/][Sawfish]] Photo by Simon Fraser University - University Communications. License: [[https://creativecommons.org/licenses/by/2.0/deed.en][Creative Commons Attribution 2.0 Generic]] (via [[https://commons.wikimedia.org/wiki/File:Pristis_pristis_townsville.jpg][Wikimedia Commons]])
 #+end_attribution
 
-* SAW
+* Sequential Artists' Workshop - (SAW)
  - {{% lancelot title="One Year Certificate Program" %}}sequential-artists-workshop-saw-one-year-certificate-program{{% /lancelot %}}
-
-Favicon:
-
-#+begin_attribution
-[[https://www.publicdomainpictures.net/pictures/20000/velka/malvorlage.jpg][malvorlage]] by Sabine Sauermaul. www.publicdomainpictures.net. The image is dedicated to the public domain under CC0.
-#+end_attribution
