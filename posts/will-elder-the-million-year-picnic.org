@@ -1,0 +1,133 @@
+#+BEGIN_COMMENT
+.. title: Will Elder: The Million-Year Picnic
+.. slug: will-elder-the-million-year-picnic
+.. date: 2026-09-10 17:02:16 UTC-07:00
+.. tags: comics,heroes,will elder
+.. category: Comics
+.. link: 
+.. description: Information about the collection title "The Million Year Picnic".
+.. type: text
+
+#+END_COMMENT
+#+OPTIONS: ^:{}
+#+TOC: headlines 2
+
+Information for the Fantagraphics Collection "The Million Year Picnic and Other Stories".
+
+* Inside Story!
+- Story: William M. Gaines, Al Feldstein
+- Script: Al Feldstein
+- Art: Will Elder
+- [[https://eccomics.fandom.com/wiki/Weird_Science_Vol_1_14][EC Fandom Wiki]] - Weird Science Volume 1 Issue 14
+- [[https://www.comics.org/issue/9835/#87850][GCD Listing]]
+- July 1952
+
+** Characters
+- Professor Halpert Steinwell
+- General Omarhower
+- Smedley Throbbins (villain)
+- Tony Bellano (villain)
+- Charlie Grodsky (villain)
+- Joe Erickton (villain) 
+- Doctor Bowles
+- unnamed coroner
+- unnamed police lieutenant
+- unnamed secretary of state
+
+** Premise
+Criminals begin dying by having their organs removed with no visible marks showing how they were taken. At the same time dying patients have their failing organs (which match the organs removed from the criminals) miraculously cured. The Coroner and the police have no idea what is going on.
+
+* Ahead Of the Game
+- Story: William M. Gaines, Al Feldstein
+- Script: Al Feldstein
+- Art: Will Elder
+- [[https://eccomics.fandom.com/wiki/Weird_Fantasy_Vol_1_17][EC Fandom Wiki Page]]
+- Weird Science Vulume 1 Issue 17
+- January 1953
+
+* Counter-Clockwise
+- Story: William M. Gaines, Al Feldstein
+- Script: Al Feldstein 
+- Pencils: John Severin
+- Inks: Will Elder
+
+- [[https://eccomics.fandom.com/wiki/Weird_Fantasy_Vol_1_18][EC Fandom Wiki Page]]
+- Weird Science Volume 1 Issue 18
+- March 1953
+
+* Right On the Button
+- Story: William M. Gaines, Al Feldstein
+- Script: Al Feldstein
+- Art: Will Elder
+- [[https://eccomics.fandom.com/wiki/Weird_Science_Vol_1_19][EC Fandom Wiki Page]]
+- Weird Science Volume 1 Issue 19
+ - May 1953
+
+* Two For the Show
+- Story: William M. Gaines, Al Feldstein
+- Script: Al Feldstein
+- Art: Will Elder
+- Final Panel: Jack Kamen
+
+- [[https://eccomics.fandom.com/wiki/Crime_SuspenStories_Vol_1_17][EC Fandom Wiki Page]]
+- Crime SuspenStories Volume 1 Issue 17
+- June 1953
+
+* King of the Grey Spaces
+- Story: Ray Bradbury
+- Script: Al Feldstein
+- Pencils: John Severin
+- Inks: Will Elder
+- [[https://eccomics.fandom.com/wiki/Weird_Fantasy_Vol_1_19][EC Fandom Wiki Page]]
+- Weird Fantasy Volume 1 Issue 19
+- May 1953
+
+* Juice For the Record
+- Story: William M. Gaines, Al Feldstein
+- Script: Al Feldstein
+- Art: Will Elder
+- [[https://eccomics.fandom.com/wiki/Crime_SuspenStories_Vol_1_18][EC Fandom Wiki Page]]
+- Crime SuspenStories Volume 1 Issue 18
+- August 1953
+
+* 08-Strop You're Killing Me!
+- Story: William M. Gaines, Al Feldstein
+- Script: Al Feldstein
+- Art: Will Elder
+- [[https://eccomics.fandom.com/wiki/Tales_from_the_Crypt_Vol_1_37][EC Fandom Wiki Page]]
+- Tales From the Crypt Volume 1 Issue 37
+- August 1953
+
+* 10 Last Laugh
+- Story: William M. Gaines, Al Feldstein
+- Script: Al Feldstein
+- Art: Will Elder
+
+- [[https://eccomics.fandom.com/wiki/Tales_from_the_Crypt_Vol_1_38][EC Fandom Wiki Page]]
+- Tales From the Crypt Volume 1 Issue 38
+- October 1953
+
+
+* 14 The Lady Or The Tiger
+- Story and Script: Al Feldstein
+- Art: Will Elder
+- Page 6, Panel 7: Will Elder and Basil Wolverton
+
+- [[https://en.wikipedia.org/wiki/Panic_(comics)][Wikipedia Panic Page]]
+- Panic 2
+- April 1954
+  
+* 24-Mary Worthless
+- Story and Script: Jack Mendelsohn
+- Art: Will Elder
+- [[https://en.wikipedia.org/wiki/Panic_(comics)][Wikipedia Panic! Page]]
+- Panic 11
+- October 1955
+
+  
+
+
+* Links
+
+- {{% lancelot title="Up: EC Comics Post" %}}ec-comics{{% /lancelot %}}
+- [[https://www.comics.org/issue/1666527/][GCD Page for the collection]]

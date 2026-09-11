@@ -1,0 +1,15 @@
+#+BEGIN_COMMENT
+.. title: EC Comics
+.. slug: ec-comics
+.. date: 2026-09-10 16:57:06 UTC-07:00
+.. tags: comics,heroes
+.. category: Comics
+.. link: 
+.. description: Page for posts about EC Comics.
+.. type: text
+
+#+END_COMMENT
+
+* Parts
+- {{% lancelot title="Will Elder: The Million Year Picnic" %}}will-elder-the-million-year-picnic{{% /lancelot %}}
+
